@@ -167,3 +167,4 @@ C:\Users\OMEN\OneDrive\Documents\asp12\api\App1\App1\bin\Debug\net9.0\Swashbuckl
 C:\Users\OMEN\OneDrive\Documents\asp12\api\App1\App1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\OMEN\OneDrive\Documents\asp12\api\App1\App1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\OMEN\OneDrive\Documents\asp12\api\App1\App1\bin\Debug\net9.0\libman.json
+C:\Users\OMEN\OneDrive\Documents\asp12\api\App1\App1\obj\Debug\net9.0\App1.sourcelink.json
